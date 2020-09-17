@@ -1,2 +1,1 @@
-# Git-ft.MS-Word
-added word assignment file
+# Git-ft.MS-Word`
